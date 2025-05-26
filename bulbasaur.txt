@@ -1,0 +1,2 @@
+// Bulbasaur esta aqui
+Se paso de .js a .txt
