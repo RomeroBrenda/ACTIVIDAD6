@@ -1,1 +1,3 @@
 Contenido del archivo bren2
+Cambios realizados por Bren para el punto 6 de la ejercitación.
+Estoy practicando cómo sincronizar cambios con GitHub.
